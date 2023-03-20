@@ -12,4 +12,5 @@ You can choose how many Videos get disliked
 ## Sound Feedback
 You will hear a sound on every Dislike and a long sound after the Program finished
 
-
+### Issues
+You might need to edit the Click Positions (depends on your Screen Resolution)
